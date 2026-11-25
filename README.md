@@ -9,8 +9,8 @@
 - **Сайт:** [chessnavio.ru](https://chessnavio.ru/?utm_source=github&utm_medium=referral&utm_content=readme)
 - **Разбор партии по PGN без установки:** [chessnavio.ru/analyze](https://chessnavio.ru/analyze?utm_source=github&utm_medium=referral&utm_content=readme)
 - **English:** [chessnavio.com](https://chessnavio.com/?utm_source=github&utm_medium=referral&utm_content=readme)
-- **Читы на шахматы — как работают подсказки и чем рискуете:** [chessnavio.ru/chess-cheat](https://chessnavio.ru/chess-cheat)
-- **Chess cheat extension for Chrome (English):** [chessnavio.com/chess-cheat](https://chessnavio.com/chess-cheat)
+- **Подсказки в шахматах: где можно, где нельзя и чем рискуете:** [chessnavio.ru/chess-cheat](https://chessnavio.ru/chess-cheat)
+- **Chess hints: where they're allowed and what you risk (English):** [chessnavio.com/chess-cheat](https://chessnavio.com/chess-cheat)
 
 Перед использованием подсказок проверьте правила выбранной шахматной площадки.
 
